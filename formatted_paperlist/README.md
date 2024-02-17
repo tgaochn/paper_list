@@ -14,3 +14,4 @@
 | Rice Chalky Grain 5 regulates natural variation for grain quality under heat stress                                      | plant         | Frontiers in Plant Science                     | Journal          | 2022 |
 | (abstract only) Unraveling exosome-enabled cancer signaling: An integrated genomic approach                              | cancer        | Cancer Research                                | abstract         | 2019 |
 | Wild emmer introgression alters root-to-shoot growth dynamics in durum wheat in response to water stress                 | plant         | Plant Physiology                               | Journal          | 2021 |
+| Accelerating web-based graph visualization with pixel-based edge bundling                                                | visualization | 2023 IEEE International Conference on Big Data | Conference       | 2023 |
